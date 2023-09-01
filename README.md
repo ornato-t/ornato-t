@@ -6,11 +6,16 @@
 - 📸 I am a hobbyist photographer
 
 # Some projects I've worked on
-- [**GTTTools**](https://gtt.cx) - a mobile first, web application for smart mobility in the city of Turin, Italy `[TypeScript, SvelteKit, Tailwind CSS, MongoDB]`
-- [**Based Count**](https://basedcount.com) - a data aggregation website for a subreddit of over 500k users `[Go, TypeScript, Svelte, Tailwind CSS, MongoDB]`
-- **flairchange_bot** - a data collecting Reddit bot with over 300 positive votes  `[TypeScript, NodeJS]`   
-- **ChadGPT** - a GPT-2 language model trained with conflicting and controversial political opinions `[Python, MongoDB]`   
-- [**Defederation Investigator**](https://defed.xyz) - a website tracking federation activity on Lemmy and the Fediverse `[TypeScript, SvelteKit, Tailwind CSS]`
+- [**GTTTools**](https://gtt.cx) - a mobile first, web application for smart mobility in the city of Turin, Italy.  
+  `[TypeScript, SvelteKit, Tailwind CSS, MongoDB]`
+- [**Based Count**](https://basedcount.com) - a data aggregation website for a subreddit of over 500k users.  
+  `[Go, TypeScript, Svelte, Tailwind CSS, MongoDB]`
+- **flairchange_bot** - a data collecting Reddit bot with over 300 positive votes.  
+  `[TypeScript, NodeJS]`   
+- **ChadGPT** - a GPT-2 language model trained with conflicting and controversial political opinions.  
+  `[Python, MongoDB]`   
+- [**Defederation Investigator**](https://defed.xyz) - a website tracking federation activity on Lemmy and the Fediverse.  
+  `[TypeScript, SvelteKit, Tailwind CSS]`
 
 # Skills and technologies
 ## Programming languages
