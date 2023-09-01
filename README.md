@@ -1,6 +1,6 @@
 # About me
 - 👋 Hi! I'm Tommaso Ornato
-- 📚 I study **Computer Engineering** at @polito
+- 📚 I study **Computer Engineering** at [@polito](https://github.com/polito)
 - 🖥 I mainly work on **Frontend Development**
 - 🔭 I'm currently interested in **The Fediverse**
 - 📸 I am a hobbyist photographer
