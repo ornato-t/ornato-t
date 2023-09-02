@@ -12,7 +12,7 @@
   `[Go, TypeScript, Svelte, Tailwind CSS, MongoDB]`
 - **flairchange_bot** - a data collecting Reddit bot with over 300 positive votes.  
   `[TypeScript, NodeJS]`   
-- **ChadGPT** - a GPT-2 language model trained with conflicting and controversial political opinions.  
+- **ChadGPT** - a GPT-2 language model trained on conflicting and controversial political opinions.  
   `[Python, MongoDB]`   
 - [**Defederation Investigator**](https://defed.xyz) - a website tracking federation activity on Lemmy and the Fediverse.  
   `[TypeScript, SvelteKit, Tailwind CSS]`
