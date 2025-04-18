@@ -2,8 +2,9 @@
 - 👋 Hi! I'm Tommaso Ornato
 - 📚 I study **Computer Engineering** at [@polito](https://github.com/polito)
 - 🖥 I mainly work on **Frontend Development**
-- 🔭 I'm currently interested in **The Fediverse**
+- 🔭 I'm currently interested in **Computer Vision**
 - 📸 I am a hobbyist photographer
+- 💝 I do volunteering at [Dialogue Explore Bond](https://github.com/DialogueExploreBond) (check out [@ornato-t-deb](https://github.com/ornato-t-deb)!)
 
 # Some projects I've worked on
 - [**GTTTools**](https://gtt.cx) - a mobile first, web application for smart mobility in the city of Turin, Italy.  
@@ -46,8 +47,3 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
-
-# Language Proficiency
-- Italian - native
-- English - C1 (IELTS Academic 8.0/9.0)
-- French - A1
